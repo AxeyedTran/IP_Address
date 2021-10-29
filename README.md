@@ -17,3 +17,7 @@ Tool IP Find Without API V1.1.0
 [</>] python install.py
 
 [</>] Enjoy Guy :)
+
+# Preview:
+<img scr = "preview1.png">
+<img scr = "preview2.png">
