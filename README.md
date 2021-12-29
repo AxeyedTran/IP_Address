@@ -10,7 +10,7 @@ Tool IP Find With API V1.1.0
 
 [</>] pip install requests
 
-[</>] git clone https://github.com/AXEYEDKHA/IP_Address
+[</>] git clone https://github.com/AxeyedTran/IP_Address
 
 [</>] cd IP_Address
 
